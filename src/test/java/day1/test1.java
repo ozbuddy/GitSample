@@ -22,7 +22,7 @@ public class test1 {
 
 		System.out.println("-----------------");
 
-	
+	int i =10;
 	}
 
 }
