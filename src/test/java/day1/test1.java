@@ -7,6 +7,13 @@ public class test1 {
 		
 		
 		System.out.println("Hello world");
+		
+		System.out.println("Stash");
+		System.out.println("Git is cool");
+		
+		
+		
+		
 
 	}
 
