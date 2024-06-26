@@ -5,7 +5,7 @@ public class test2 {
 		
 		int i =100;
 		int j =50;
-		
+		System.out.println("**************");
 	}
 
 }
