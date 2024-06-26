@@ -9,8 +9,19 @@ public class test1 {
 		
 		System.out.println("Hi Git");
 		
+<<<<<<< HEAD
 		System.out.println("Git is cool");
 
+=======
+		System.out.println("Hello world");
+		
+		System.out.println("Stash");
+		System.out.println("Git is cool");
+		
+		
+		
+		
+>>>>>>> feature
 
 	}
 
