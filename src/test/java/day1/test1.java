@@ -16,8 +16,12 @@ public class test1 {
 		System.out.println("Stash");
 		System.out.println("moving between hash");
 		
+
 		
 		System.out.println("++++++++++++++++");
+
+		System.out.println("-----------------");
+
 	
 	}
 
